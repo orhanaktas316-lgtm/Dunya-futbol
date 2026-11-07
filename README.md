@@ -1,1 +1,1 @@
-https://github.com/ KULLANICI_ADIN / dunya-futbol/settings/pages
+https://github.com/orhanaktas316-lgtm/Dunya-futbol
